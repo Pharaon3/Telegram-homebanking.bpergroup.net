@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Kievit Pro Bold';
+  src: url('./Kievit/Kievit\ Bold/Kievit Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Kievit Pro';
+  src: url('./Kievit/Kievit\ Medium/Kievit Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Kievit';
+  src: url('./Kievit/Kievit\ Medium/Kievit Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Kievit Pro Book';
+  src: url('./Kievit/Kievit\ Book/Kievit Book.ttf') format('truetype');
+}
